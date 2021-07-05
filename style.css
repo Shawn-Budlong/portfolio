@@ -16,7 +16,7 @@ main {
   padding: 24px;
   background-color: rgb(13, 129, 110);
   color: white;
-  font-size: 64px;
+  font-size: 16px;
   font-family: 'Times New Roman';
 }
 
@@ -37,7 +37,7 @@ footer {
 
 h1 {
     font-family: 'Times New Roman';
-    font-size: 32px;
+    font-size: 64px;
     font-color: black;
   }
   
@@ -45,6 +45,6 @@ h1 {
   
   h2 {
     font-family: 'Times New Roman';
-    font-size: 16px;
+    font-size: 32px;
     font-color: black;
   }
