@@ -11,6 +11,7 @@ header {
   font-size: 32px;
   font-family: 'Times New Roman';
 }
+/* Just my name so far */
 
 main {
   text-align: center;
@@ -21,10 +22,12 @@ main {
   font-size: 16px;
   font-family: 'Times New Roman';
 }
+/* Pretty much everything is in here */
+
 
 .links {
   a:link {
-    background-color: black;
+    color: white;
   }
   a:visited {
     background-color: rgb(213, 248, 55);
@@ -36,6 +39,8 @@ main {
     background-color: rgb(199, 39, 18);
   } 
 }
+/* Styles the links */
+
 
 footer {
   text-align: center;
@@ -48,8 +53,7 @@ footer {
   font-size: 64px;
   font-family: 'Times New Roman';
 }
-
-
+/* Nothing here yet */
 
 
 h1 {
@@ -57,7 +61,7 @@ h1 {
     font-size: 64px;
     font-color: black;
   }
-  
+  /* adjusting sizes */
 
   
   h2 {
@@ -65,3 +69,4 @@ h1 {
     font-size: 32px;
     font-color: black;
   }
+  /* adjusting size */
