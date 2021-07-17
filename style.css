@@ -25,20 +25,18 @@ main {
 /* Pretty much everything is in here */
 
 
-.links {
-  a:link {
+.links a {
     color: white;
   }
-  a:visited {
+  .links a:visited {
     background-color: rgb(213, 248, 55);
   }
-  a:hover {
+  .links a:hover {
     background-color: rgb(158, 160, 158);
   }
-  a:active {
+  .links a:active {
     background-color: rgb(199, 39, 18);
   } 
-}
 /* Styles the links */
 
 
